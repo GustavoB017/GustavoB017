@@ -1,6 +1,6 @@
-- 👋 Hi, soy @GustavoB017
+- 👋 Hola, soy @GustavoB017
 - 👀 Estoy interesado en diseño, programacion, anime ;)
-- 🌱 Actualmente estoy estudiando Programacion en ...
+- 🌱 Actualmente estudio programacion en ...
 
 <img width="626" src="https://parquesoft.com/wp-content/uploads/2020/05/PS-Corp.png" >
 
